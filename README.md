@@ -1,1 +1,1 @@
-# genesis-block
+# genesis block
